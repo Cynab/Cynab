@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cynab
 - 👀 I’m interested in programming app
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently on the deadline..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb.com/hiimdange
 
