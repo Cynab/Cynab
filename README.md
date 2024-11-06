@@ -1,4 +1,4 @@
-Hi, I'm Dang! Curently senior year in FPT high school ^ ^. I master 3 main language: Java, C++ and Js. Heading to get AWS and data structure certificate.
+Hi, I'm Dang! Curently freshman year in HUST, I master 3 Languages: JS, C++ and C#. I have AWS and data strucs certificate, Heading to join electrical engineering in circuit :D!
 
 You guys can contact me in me@cynab.net
 
